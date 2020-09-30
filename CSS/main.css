@@ -92,22 +92,12 @@ footer {
     background: #1abc9c;
 }
 
-@media (max-width: 425px) {
-    .titulo-imagen {
-        display: none;
-    }
-    .imagen {
-        display: none;
-    }
-}
+@media (max-width: 425px) {}
 
 @media (max-width: 768px) {
     .row,
     nav {
         flex-direction: column;
-    }
-    .imagen {
-        width: 30% !important;
     }
 }
 
