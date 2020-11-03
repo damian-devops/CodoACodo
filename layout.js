@@ -15,13 +15,13 @@ let headerTemplate = ` <nav class="navbar navbar-expand-md navbar-dark bg-dark f
             <a class="nav-link" href="index.html">Incio <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Contacto.html">Contacto</a>
+            <a class="nav-link" href="#">Contacto</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Acerca.html">Acerca de</a>
+            <a class="nav-link" href="#">Acerca de</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="Sucursales.html">Sucursales</a>
+            <a class="nav-link" href="#">Sucursales</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="nuestros_productos.html">Nuestros Productos</a>
